@@ -111,6 +111,12 @@ simple-requests.htm: [fail, Maybe https://github.com/tmpvar/jsdom/issues/1833 bu
 
 ---
 
+DIR: custom-elements/custom-element-registry
+
+per-global.html: [fail, Unknown]
+
+---
+
 DIR: dom/collections
 
 ---
